@@ -11,3 +11,8 @@ More quite interesting stuff. Bla bla.
 * He loves chocolate
 * and his children
 * football is his favorite game
+
+
+As Grace Hopper said:
+> I’ve always been more interested 
+> in the future than in the past.
