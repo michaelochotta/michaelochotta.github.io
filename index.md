@@ -16,3 +16,5 @@ More quite interesting stuff. Bla bla.
 As Grace Hopper said:
 > I’ve always been more interested 
 > in the future than in the past.
+
+<img src="https://www.malvorlagenandcoloring.com/featuredimage/pummel+malvorlage.jpg"/>
